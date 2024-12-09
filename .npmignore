@@ -1,0 +1,8 @@
+src
+rust_math
+node_modules
+tsconfig.json
+*.log
+.idea
+package-lock.json
+tsconfig.json

@@ -1,0 +1,19 @@
+{
+  "name": "wasm-decimals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf ./dist && tsc",
+    "test": "node ./dist/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@romafominih/rust_math": "^0.1.0"
+  }
+}
